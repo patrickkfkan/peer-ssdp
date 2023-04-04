@@ -1,3 +1,11 @@
+Forked from https://github.com/fraunhoferfokus/peer-ssdp with the following changes:
+
+v0.1.0:
+- Add `bindToInterfaces` and `bindToAddresses` options.
+- Based on upstream v0.0.5.
+
+Everything else is the original author's work.
+
 peer-ssdp 
 =========
 
